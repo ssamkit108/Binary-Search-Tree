@@ -1,3 +1,7 @@
+## Note
+>This is a course assignment for the CSCI3901. I have implemented binary search tree with the mechanism to access the frequency searched item quickly.
+Moreover, Testcases for the sudoku are mentioned in the Test case pdf file.
+
 # Description
 
 This program is mainly implemented unbalanced Binary Search Tree. But, we have implemented searching method slightly different to make searching more efficient. We store count for an item that how many times it is searched. If that item is searched more than its parent, then we move that item up one level in a tree. Following is the general approach used and a high-level overview of classes in the program:
