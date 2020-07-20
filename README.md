@@ -1,5 +1,5 @@
 ## Note
->This is a course assignment for the CSCI3901. I have implemented binary search tree with the mechanism to access the frequency searched item quickly.
+>This is a course assignment for the CSCI3901. The main purpose of this assignment is to learn and implement data structures and writting test cases.I have implemented binary search tree with the mechanism to access the frequency searched item quickly.
 Moreover, Testcases for the sudoku are mentioned in the Test case pdf file.
 
 # Description
